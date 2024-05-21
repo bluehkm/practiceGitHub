@@ -6,10 +6,8 @@ public class Main {
         //mistake
         //hikmet
         //Today
-        //stash
-        //unstash
-        //nonono
         //master
+        //mainnnnnn
         }
 
 
